@@ -1,0 +1,7 @@
+mkdir AX-SYS
+cd AX-SYS
+wget https://github.com/FerrousInk/AX-SYS-Tool/releases/download/AX-SYS-3-7/AX-SYS-3-7.zip.anti-compression
+mv AX-SYS-3-7.zip.anti-compression AX-SYS-3-7.zip
+unzip AX-SYS-3-7.zip
+rm AX-SYS-3-7.zip
+cd ..
